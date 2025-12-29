@@ -1,6 +1,10 @@
 <div align="center">
 
 # 🧾 Aplikasi Kasir Desktop (Point of Sales)
+<div align="center">
+  <img src="src/assets/cashier-logo.png" width="150" alt="Logo Aplikasi Kasir"/>
+</div>
+
 **Tugas Kuliah Pemrograman Visual (Desktop) berbasis C# WinForms**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -73,7 +77,7 @@ Berikut adalah *tech stack* yang digunakan dalam membangun aplikasi ini:
 
 ## 🗄️ Struktur Database
 
-Aplikasi ini menggunakan 4 tabel utama. Berikut adalah skema ringkasnya:
+Aplikasi ini menggunakan 5 tabel utama. Berikut adalah skema ringkasnya:
 
 <details>
 <summary><b>Klik untuk melihat detail tabel (SQL)</b></summary>
@@ -189,7 +193,7 @@ Dosen Pengampu: **Pak Yogi Yulianto, M.Kom**
 | 1. | **ANNAS MALIK** | 312310520 |
 | 2. | **NUR SUCI RAHAYU** | 312310684 |
 | 3. | **M TAESAR MAULANA** | 312310711 |
-| 3. | **ABDURRAHMAN PUTRA** | 312310787 |
+| 4. | **ABDURRAHMAN PUTRA** | 312310787 |
 
 ---
 
