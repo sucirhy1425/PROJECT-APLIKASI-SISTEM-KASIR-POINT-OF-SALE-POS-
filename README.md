@@ -29,6 +29,9 @@
 Aplikasi Kasir Desktop ini dirancang untuk membantu proses transaksi penjualan, pengelolaan barang, dan pencatatan laporan secara **terstruktur, real-time, dan efisien**. Aplikasi ini menggunakan **MySQL (MariaDB)** sebagai database server untuk menjamin keamanan dan integritas data.
 
 Tujuan utama pengembangan aplikasi ini adalah untuk memenuhi tugas mata kuliah **Pemrograman Visual**, dengan fokus pada stabilitas sistem, validasi data yang ketat, dan pengalaman pengguna yang responsif.
+<div align="center">
+  <img src="src/assets/view.png" width="150" alt="Logo Aplikasi Kasir"/>
+</div>
 
 ---
 
