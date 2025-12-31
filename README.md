@@ -30,7 +30,7 @@ Aplikasi Kasir Desktop ini dirancang untuk membantu proses transaksi penjualan, 
 
 Tujuan utama pengembangan aplikasi ini adalah untuk memenuhi tugas mata kuliah **Pemrograman Visual**, dengan fokus pada stabilitas sistem, validasi data yang ketat, dan pengalaman pengguna yang responsif.
 <div align="center">
-  <img src="src/assets/view.png" width="150" alt="Logo Aplikasi Kasir"/>
+  <img src="src/assets/view.png" width="100%" alt="Tampilan Aplikasi Kasir" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);"/>
 </div>
 
 ---
