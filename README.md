@@ -189,14 +189,14 @@ string connectionString = "Server=127.0.0.1; Port=3306; Database=kasir; Uid=root
 
 **Tugas Kelompok - Pemrograman Visual (Desktop)**
 
-Dosen Pengampu: **Pak Yogi Yulianto, M.Kom**
+Dosen Pengampu: [Pak Yogi Yulianto, M.Kom](https://github.com/yogiyulianto)
 
 | No | Nama Anggota | NIM |
 | :---: | :--- | :--- |
-| 1. | **ANNAS MALIK** | 312310520 |
-| 2. | **NUR SUCI RAHAYU** | 312310684 |
-| 3. | **M TAESAR MAULANA** | 312310711 |
-| 4. | **ABDURRAHMAN PUTRA** | 312310787 |
+| 1. | [ANNAS MALIK](https://github.com/annasmalikid) | 312310520 |
+| 2. | [NUR SUCI RAHAYU](https://github.com/sucirhy1425) | 312310684 |
+| 3. | [M TAESAR MAULANA](https://github.com/TaesarMaulana) | 312310711 |
+| 4. | [ABDURRAHMAN PUTRA](https://github.com/abdrrputra) | 312310787 |
 
 ---
 
